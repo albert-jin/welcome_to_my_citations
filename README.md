@@ -4,6 +4,27 @@
     an up-to-date citation set of albert-jin published works.
 ***
 
+### Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis
+> ***Citation Index:*** :star: :star: :star: :star: :star: :star: :star:
+>> https://doi.org/10.1016/j.ipm.2022.103260
+>>> https://www.sciencedirect.com/science/article/pii/S0306457322003612
+>>>> ### Area: ABSA (ASC) | Paper Type: Journal ==> IP&M
+
+```
+@article{JIN2023103260,
+title = {Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis},
+journal = {Information Processing & Management},
+volume = {60},
+number = {3},
+pages = {103260},
+year = {2023},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2022.103260},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457322003612},
+author = {Weiqiang Jin and Biao Zhao and Liwen Zhang and Chenxing Liu and Hang Yu},
+}
+```
+
 ### Improving embedded knowledge graph multi-hop question answering by introducing relational chain reasoning :smiley:
 > ***Citation Index:*** :star: :star: :star: :star: :star:
 >> https://link.springer.com/article/10.1007/s10618-022-00891-8
