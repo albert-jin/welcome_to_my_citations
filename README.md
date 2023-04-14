@@ -4,6 +4,35 @@
     an up-to-date citation set of albert-jin published works.
 ***
 
+### Fintech Key-Phrase: A New Chinese Financial High-Tech Dataset Accelerating Expression-Level Information Retrieval :smiley: :smiley:
+> ***Citation Index:*** :star: :star: :star: :star: :star:
+>> https://doi.org/10.1007/978-3-031-30675-4_31
+>>> https://link.springer.com/chapter/10.1007/978-3-031-30675-4_31
+>>>> ### Area: (Information Retrieval) | Paper Type: Conference ==> DASFAA
+
+```
+@InProceedings{10.1007/978-3-031-30675-4_31,
+author="Jin, Weiqiang
+and Zhao, Biao
+and Liu, Chenxing",
+editor="Wang, Xin
+and Sapino, Maria Luisa
+and Han, Wook-Shin
+and El Abbadi, Amr
+and Dobbie, Gill
+and Feng, Zhiyong
+and Shao, Yingxiao
+and Yin, Hongzhi",
+title="Fintech Key-Phrase: A New Chinese Financial High-Tech Dataset Accelerating Expression-Level Information Retrieval",
+booktitle="Database Systems for Advanced Applications",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="425--440",
+isbn="978-3-031-30675-4"
+}
+```
+
 ### Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis :smiley: :smiley:
 > ***Citation Index:*** :star: :star: :star: :star: :star: :star: :star:
 >> https://doi.org/10.1016/j.ipm.2022.103260
