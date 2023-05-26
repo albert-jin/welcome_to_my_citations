@@ -4,6 +4,19 @@
     an up-to-date citation set of albert-jin published works.
 ***
 
+### ChatAgri: Exploring Potentials of ChatGPT on Cross-linguistic Agricultural Text Classification (共同一作)
+> ***Citation Index:*** :star: :star: :star: :star: :star: :star: thanks~
+```
+@misc{zhao2023chatagri,
+      title={ChatAgri: Exploring Potentials of ChatGPT on Cross-linguistic Agricultural Text Classification}, 
+      author={Biao Zhao and Weiqiang Jin and Javier Del Ser and Guang Yang},
+      year={2023},
+      eprint={2305.15024},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ### Fintech Key-Phrase: A New Chinese Financial High-Tech Dataset Accelerating Expression-Level Information Retrieval :smiley: :smiley:
 > ***Citation Index:*** :star: :star: :star: :star: :star:
 >> https://doi.org/10.1007/978-3-031-30675-4_31
