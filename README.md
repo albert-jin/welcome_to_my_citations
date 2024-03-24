@@ -1,7 +1,7 @@
 # welcome_to_my_citations 
-:laughing:
+:laughing:  :smiley: :smiley:
 ***
-    an up-to-date citation set of albert-jin published works.  :smiley: :smiley: thanks~
+    an up-to-date citation set of albert-jin's published works. thanks for citing~
 ***
 
 ### Fintech Key-Phrase: A New Chinese Financial High-Tech Dataset Accelerating Expression-Level Information Retrieval
@@ -50,6 +50,28 @@ doi = {https://doi.org/10.1016/j.eswa.2023.122289},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417423027914},
 author = {Weiqiang Jin and Biao Zhao and Yu Zhang and Jia Huang and Hang Yu},
 keywords = {Natural Language Processing, Aspect-based Sentiment Analysis, Masked Language Model, Pre-trained Language Model, Few-shot supervised learning},
+}
+```
+
+### Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis :smiley: :smiley:
+> ***Citation Index:*** :star: :star: :star: :star:
+>> https://doi.org/10.1016/j.ipm.2022.103260
+>>> https://www.sciencedirect.com/science/article/pii/S0306457322003612
+>>>> Area: ABSA (ASC) \
+>>>> Journal: (IP&M)
+
+```
+@article{JIN2023103260,
+title = {Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis},
+journal = {Information Processing & Management},
+volume = {60},
+number = {3},
+pages = {103260},
+year = {2023},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2022.103260},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457322003612},
+author = {Weiqiang Jin and Biao Zhao and Liwen Zhang and Chenxing Liu and Hang Yu},
 }
 ```
 
@@ -207,28 +229,6 @@ publisher="Springer Nature Switzerland",
 address="Cham",
 pages="425--440",
 isbn="978-3-031-30675-4"
-}
-```
-
-### Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis :smiley: :smiley:
-> ***Citation Index:*** :star: :star: :star: :star: :star:
->> https://doi.org/10.1016/j.ipm.2022.103260
->>> https://www.sciencedirect.com/science/article/pii/S0306457322003612
->>>> Area: ABSA (ASC) \
->>>> Journal: (IP&M)
-
-```
-@article{JIN2023103260,
-title = {Back to common sense: Oxford dictionary descriptive knowledge augmentation for aspect-based sentiment analysis},
-journal = {Information Processing & Management},
-volume = {60},
-number = {3},
-pages = {103260},
-year = {2023},
-issn = {0306-4573},
-doi = {https://doi.org/10.1016/j.ipm.2022.103260},
-url = {https://www.sciencedirect.com/science/article/pii/S0306457322003612},
-author = {Weiqiang Jin and Biao Zhao and Liwen Zhang and Chenxing Liu and Hang Yu},
 }
 ```
 
